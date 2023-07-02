@@ -260,7 +260,7 @@ nav ul li a {
   .lighting h1 {
     font-size: 23px;
     height: 50px;
-    width: 350px;
+    width: 250px;
     text-align: center;
   }
   .lighting-button {
@@ -824,6 +824,14 @@ width: 250px; */
   .vector5 img {
     width: 180px;
   }
+  .herosection p {
+    font-size: 13px;
+    font-weight: 450;
+    line-height: 38px;
+    letter-spacing: 0.20000000298023224px;
+    height: 76px;
+    width: 400px;
+}
 }
 @media (max-width: 500px) {
   .butt3 button {
@@ -847,6 +855,14 @@ width: 250px; */
     letter-spacing: 0.20000000298023224px;
     text-align: center;
     width: 268px;
+}
+.herosection p {
+  font-size: 13px;
+  font-weight: 450;
+  line-height: 38px;
+  letter-spacing: 0.20000000298023224px;
+  height: 76px;
+  width: 300px;
 }
 }
 @media (max-width: 350px) {
@@ -1303,7 +1319,7 @@ footer{
     list-style-type: none;
     display: inline-block;
     padding: 8px;
-    font-size: 15px;
+    font-size: 13px;
   }
 }
 
