@@ -784,8 +784,11 @@ width: 250px; */
   background-color: #00b6f0;
   color: white;
 }
+.butt3{
+  padding-bottom: 35px;
+}
 .vector5 img {
-  width: 230px;
+  width: 310px;
   position: absolute;
   right: 0px;
   bottom: 0px;
@@ -828,11 +831,11 @@ width: 250px; */
     background-color: #00b6f0;
     color: white;
     border: none;
-    width: 110px;
+    width: 150px;
     height: 30px;
 }
 .vector5 img {
-  width: 131px;
+  width: 111px;
 }
 }
 @media (max-width: 400px) {
